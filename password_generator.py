@@ -1,6 +1,6 @@
 letters = list("abcdefjhijklmnopqrstuvwxyzABCDEFJHIJKLMINOPQRSTUVWXYZ")
 numbers =list("0123456789")
-symbols = list("!#$$&()*+")
+symbols = list("!#$%&()*+")
 
 l = [letters, numbers, symbols]
 
